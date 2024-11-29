@@ -1,0 +1,76 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Camisa Botafogo Reebok Home 24/25",
+            "preco": "349,99",
+            "imgUm": "https://botafogo.vtexassets.com/arquivos/ids/157971-500-auto?v=638501084405470000&width=500&height=auto&aspect=true",
+            "parcela": "4x de R$ 87,49 sem juros",
+            "descricao": "A icônica e inconfundível camisa listrada ganhou um design que homenageia os 130 anos de tradição da Estrela Solitária. Com textura em zig zag que busca remeter ao tecido do tricô usado na década de 50 e 60 e selo comemorativo aplicado na borda, o uniforme I transforma a camisa alvinegra em uma escolha perfeita para qualquer ocasião, seja dentro ou fora dos estádios."
+        },
+        {
+            "id": 2,
+            "nome": "Camisa Botafogo Reebok Away 24/25",
+            "preco": "349,99",
+            "imgUm": "https://botafogo.vtexassets.com/arquivos/ids/158348-1600-auto?v=638588329099570000&width=1600&height=auto&aspect=true",
+            "parcela": "4x de R$ 87,49 sem juros",
+            "descricao": "Inspirado na torcida do Mais Tradicional, a Camisa II do Botafogo traz um design que celebra a torcida alvinegra em sua essência. Com detalhes em dourado e o selo Forjado no Fogo, o design da tradicional camisa preta presta uma homenagem aos alvinegros que incendeiam as arquibancadas para torcer pelo Glorioso."
+        },
+        {
+            "id": 3,
+            "nome": "Camisa Botafogo Reebok Third 24/25",
+            "preco": "349,99",
+            "imgUm": "https://botafogo.vtexassets.com/arquivos/ids/160381-1600-auto?v=638624568142130000&width=1600&height=auto&aspect=true",
+            "parcela": "4x de R$ 87,49 sem juros",
+            "descricao": "Num tecido tecnológico, a Camisa III ganha vida remetendo ao futuro. Na cor branca e com detalhes em prata na gola, mangas e escudo, o uniforme do Botafogo conta com o patch O Futuro é Glorioso na parte da nuca."
+        },
+        {
+            "id": 4,
+            "nome": "Camisa Botafogo Reebok Fourth 24/25",
+            "preco": "349,99",
+            "imgUm": "https://botafogo.vtexassets.com/arquivos/ids/160540-1600-auto?v=638663699017900000&width=1600&height=auto&aspect=true",
+            "parcela": "4x de R$ 87,49 sem juros",
+            "descricao": "A camisa IV do Glorioso conta com um design especial que homenageia a torcida Alvinegra. Em grafismo preto e branco e o patch Sangue Alvinegro na lateral esquerda da camisa, a peça remete a música cantada nas arquibancadas. Em modelo raglan e mangas em retilíneo, a camisa conta com uma textura exclusiva."
+        },
+        {
+            "id": 5,
+            "nome": "Camisa Comemorativa 130 anos",
+            "preco": "749,99",
+            "imgUm": "https://botafogo.vtexassets.com/arquivos/ids/158181-1600-auto?v=638560582117470000&width=1600&height=auto&aspect=true",
+            "parcela":"4x de R$ 187,49 sem juros",
+            "descricao": "A icônica e inconfundível camisa alvinegra ganhou uma versão premium para colecionadores. Com mangas longas, textura em zig zag que busca remeter ao tecido do tricô usado na década de 50 e 60 e selo comemorativo aplicado na borda, a Camisa 130 anos - Edição de Colecionador traz a nostalgia que embalou os anos gloriosos na década de 50 e 60, vestindo grandes ídolos do clube."
+        },
+        {
+            "id": 6,
+            "nome": "Camisa Botafogo Reebok Goleiro Home 24/25",
+            "preco": "329,99",
+            "imgUm": "https://botafogo.vtexassets.com/arquivos/ids/158008-1600-auto?v=638502496301870000&width=1600&height=auto&aspect=true",
+            "parcela":"4x de R$ 82,49 sem juros",
+            "descricao": "Imponente e moderna, a armadura dos nossos goleiros é feita em grafismo embossing, uma técnica de prensa de tecido que confere alto-relevo a textura da camisa. A cor cinza traz brilho e elegância ao uniforme que vai embalar grandes defesas nos campeonatos e se destacar no seu guarda-roupa."
+        },
+        {
+            "id": 7,
+            "nome": "Camisa Botafogo Reebok Goleiro Away 24/25",
+            "preco": "329,99",
+            "imgUm": "https://botafogo.vtexassets.com/arquivos/ids/158284-1600-auto?v=638579377032400000&width=1600&height=auto&aspect=true",
+            "parcela": "4x de R$ 82,49 sem juros",
+            "descricao": "Imponente e moderna, a armadura dos nossos goleiros é feita em grafismo embossing, uma técnica de prensa de tecido que confere alto-relevo a textura da camisa. A cor bronze traz elegância ao uniforme que vai embalar grandes defesas nos campeonatos e se destacar no seu guarda-roupa."
+        },
+        {
+            "id": 8,
+            "nome": "Camisa Botafogo Reebok Goleiro Third 24/25",
+            "preco": "329,99",
+            "imgUm": "https://botafogo.vtexassets.com/arquivos/ids/160387-1600-auto?v=638624569570970000&width=1600&height=auto&aspect=true",
+            "parcela": "4x de R$ 82,49 sem juros",
+            "descricao": "Imponente e moderna, a armadura dos nossos goleiros é feita em grafismo embossing, uma técnica de prensa de tecido que confere alto-relevo a textura da camisa. A cor roxa traz elegância ao uniforme que vai embalar grandes defesas nos campeonatos e se destacar no seu guarda-roupa."
+        },
+        {
+            "id": 9,
+            "nome": "Shorts Botafogo Reebok Home 24/25",
+            "preco": "199,99",
+            "imgUm": "https://botafogo.vtexassets.com/arquivos/ids/157987-1600-auto?v=638502485041300000&width=1600&height=auto&aspect=true",
+            "parcela":"4x de R$ 99,99 sem juros",
+            "descricao": "O short que veste o Mais Tradicional em campo na cor preta. Com selo de autenticidade da Reebok, o short do Botafogo, conta com o escudo e o logo da Reebok em Eco Touch e é peça perfeita para com"
+        }
+    ]
+}
