@@ -31,7 +31,7 @@ const Sobre = () => {
 
                     <div className="dados">
                         <h1 className='programador'>Programador Front-end</h1>
-                        <p>Meu nome é Arthur Granito, sou programador front-end com curso realizado na Tech4me no ano de 2024. Nascido em Petrópolis, tenho 18 anos e o mais importante: <span className='campeao'>Sou campeão da América!</span></p>
+                        <p>Meu nome é Arthur Granito, sou programador front-end com curso realizado na Tech4me no ano de 2024. No curso aprendi HTML, CSS, Lógica de Programação, JavaScript e React. Nesse projeto final quis exemplificar como eu faria um E-commerce para uma loja de roupas do Botafogo. Nascido em Petrópolis, tenho 18 anos e o mais importante: <span className='campeao'>Sou campeão da América!</span></p>
                     </div>
                 </div>
             </main>
