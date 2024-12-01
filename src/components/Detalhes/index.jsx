@@ -29,9 +29,9 @@ const Detalhes = () => {
                 position: "right",
                 stopOnFocus: true,
                 style: {
-                    background: "#ddd",
+                    background: "#313131",
                     marginTop: "75px",
-                    color: "#313131",
+                    color: "#ddd",
                 },
             }).showToast();
         }
